@@ -1,0 +1,1 @@
+https://github.com/mihavlik-cen58506/kbc-xray-extractor/blob/master/LICENSE.md

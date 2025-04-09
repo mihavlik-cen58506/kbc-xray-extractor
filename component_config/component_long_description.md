@@ -1,0 +1,1 @@
+Takes value from column in keboola table, calls ray api and with response it fills another column in the source table
